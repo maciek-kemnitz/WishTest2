@@ -67,3 +67,6 @@
 
 [backbone]
     git=https://github.com/documentcloud/backbone.git
+
+[MopaBootstrapBundle]
+    git=https://github.com/phiamo/MopaBootstrapBundle.git
